@@ -1,0 +1,28 @@
+{
+  "name": "phantest",
+  "version": "0.1.0",
+  "description": "Phantom JS Site Testing and Benchmarking Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheller/phantest.git"
+  },
+  "keywords": [
+    "Phantom",
+    "PhantomJS",
+    "benchmark",
+    "website",
+    "testing",
+    "test",
+    "speed"
+  ],
+  "author": "Bill Heller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wheller/phantest/issues"
+  },
+  "homepage": "https://github.com/wheller/phantest"
+}

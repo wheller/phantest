@@ -10,6 +10,8 @@ module.exports = (grunt) ->
             commentsSize:55
             consoleMessages:0
             jsErrors:0
+            jQueryVersionsLoaded:1
+            timeToFirstImage:1400
           limitIncludedRuns:100
           group:
               Summary: [
